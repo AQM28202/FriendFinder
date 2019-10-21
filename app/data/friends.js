@@ -1,4 +1,4 @@
-var friendsList = [                   
+var friends = [                   
     {
         name: 'Oprah Winfrey',
         image: 'https://media.giphy.com/media/11HxElzKUMmBxu/giphy.gif',
@@ -32,4 +32,4 @@ var friendsList = [
 
 ]
 
-module.exports = friendsList
+module.exports = friends
