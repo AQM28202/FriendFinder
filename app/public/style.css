@@ -1,0 +1,9 @@
+/* .jumbotron {
+    background-image: url("https://www.boweneldridge.co.uk/wp-content/uploads/2016/03/peoplebg.jpg"); 
+    background-repeat: no-repeat;
+    background-size:100%;
+} */
+body {
+    background-image: url("https://www.boweneldridge.co.uk/wp-content/uploads/2016/03/peoplebg.jpg"); 
+    background-color: #cccccc;
+   }
